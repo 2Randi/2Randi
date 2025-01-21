@@ -1,4 +1,4 @@
-👋 Hi, I’m Tsiory RANDRIAMISAINA
+👋 Hi, I’m Fanomezan RANDRIAMISAINA
 👀 I’m interested in JAVA, PHP
 
 

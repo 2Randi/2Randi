@@ -1,18 +1,13 @@
 👋 Bonjour ! Je suis un passionné d’informatique en recherche d’un poste dans les domaines suivants :
-
 - DevOps
-
 - Administration systèmes et réseaux 
-
-Cybersécurité
+- Cybersécurité
 
 
 🎓 Étudiant en Master informatique de l'Université de Montpellier, je me spécialise dans les environnements Linux, les outils d’automatisation (Ansible, Terraform), la conteneurisation (Docker, Kubernetes), la supervision (Grafana, Prometheus), les CI/CD (GitLab CI, Jenkins), ainsi que la sécurité des systèmes et réseaux.
 
 Sur ce GitHub, vous trouverez des projets 
-
 - orientés DevOps, des scripts d’administration (bash, python, PowerShell), des déploiements cloud (AWS), et des configurations d’outils de monitoring ou de sécurité
-
 - académique : Machine Learning, Android, JEE, ...
 
 📬 Contactez-moi pour toute opportunité dans ces domaines !

@@ -12,9 +12,6 @@ Sur ce GitHub, vous trouverez des projets
 
 📬 Contactez-moi pour toute opportunité dans ces domaines !
 
-tsioryrandi@gmail.com
-
-
 <!---
 2Randi/2Randi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

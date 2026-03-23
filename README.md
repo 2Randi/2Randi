@@ -1,8 +1,6 @@
-👋 Bonjour ! Je suis un passionné d’informatique en recherche d’un poste dans les domaines suivants :
-- DevOps
-- Systèmes réseaux
+👋 Bonjour ! Je suis un passionné d’informatique en recherche d’un poste dans les domaines des réseaux et systèmes.
 
-🎓 Ingénieur télécom, complété par un Master 2 en informatique, je me spécialise dans les environnements Linux, les outils d’automatisation (Ansible, Terraform), la conteneurisation (Docker, Kubernetes), la supervision (Grafana, Prometheus), les CI/CD (GitLab CI, Jenkins), ainsi que la sécurité des systèmes et réseaux.
+🎓 Ingénieur télécom, complété par un Master 2 en informatique, je me spécialise dans les environnements Linux, les outils d’automatisation, la conteneurisation, la supervision, les CI/CD, ainsi que la sécurité des systèmes et réseaux.
 
 Sur ce GitHub, vous trouverez mes projets.
 

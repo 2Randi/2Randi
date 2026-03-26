@@ -1,12 +1,26 @@
-👋 Bonjour ! Je suis un passionné d’informatique en recherche d’un poste dans les domaines des réseaux et systèmes.
+👋 Bonjour, je suis RANDRIAMISAINA Tsiory Fanomezana
 
-🎓 Ingénieur télécom, complété par un Master 2 en informatique, je me spécialise dans les environnements Linux, les outils d’automatisation, la conteneurisation, la supervision, les CI/CD, ainsi que la sécurité des systèmes et réseaux.
+Je suis actuellement à la recherche d’un poste en `administration systèmes et réseaux` ou `DevOps junior`.
 
-Sur ce GitHub, vous trouverez mes projets.
+Formation : 
+- Ingénieur en Télécommunicatoion de l'Ecole Supérieure Polytechnique d'Antananarivo
+- Master 2 en Informatique de l'Université de Montpellier
 
-📬 Contactez-moi pour toute opportunité dans ces domaines !
+Compétences issues de mon portfolio :
 
-<!---
-2Randi/2Randi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Systèmes : Linux (Debian, Ubuntu, RedHat), Windows Server
+- Virtualisation : VMware, Proxmox, OpenStack
+- Réseaux : VLAN, TCP/IP, routage, firewall, supervision
+- Sécurité : VPN
+- Automatisation et outils : PowerShell, Git, monitoring, conteneurisation
+- Langages : Java, Python, JavaScript
+
+Projets sur ce GitHub :
+
+- Portfolio professionnel
+- Labs systèmes et réseaux
+- Scripts
+- Conteneurisation et outils DevOps
+- Développements Python et Java EE
+
+Portfolio : https://2randi.github.io/portfolio/

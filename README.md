@@ -1,11 +1,10 @@
-👋 Bonjour, je suis RANDRIAMISAINA Tsiory Fanomezana
+👋Hi, I'm RANDRIAMISAINA Tsiory
 
-Je suis actuellement à la recherche d’un poste en lien avec les `Systèmes et réseaux` et aussi en `développement/intégration logiciel (Java)`.
+ I am a Telecommunications Engineer graduated from the École Supérieure Polytechnique d'Antananarivo, Madagascar. I reinforced my expertise with a Master's degree in Computer Science at the Université de Montpellier (2023–2025), specialising in systems, networks and infrastructure.
 
-J'ai acquis une première expérience professionnelle chez Orange Business, avant de reprendre mes études en France en Master informatique, à l'Université de Montpellier. Cette reprise d'études m'a permis de renforcer mes compétences en systèmes et réseaux, tout en développant de nouvelles compétences en développement et intégration logiciel, ainsi qu'en bases de données et architecture logicielle.
+ I'm actively looking for a Systems & Networks Administrator position - CDI or CDD. 
+
 
 *Portfolio* : https://2randi.github.io/portfolio/
 
 *Projets* : https://github.com/2Randi/
-
-N'hésitez pas à me contacter !!!

@@ -1,7 +1,8 @@
-Telecommunications engineer with experience in Linux and Windows environments, virtualization and storage. 
-Administration of VoIP servers, firewalls and monitoring systems. 
+**SysOps engineer** with a telecommunications background. Administration of Linux and Windows environments, virtualization and storage. Management of VoIP servers, firewalls and monitoring systems. Automation with Bash, Python and Ansible, containerization with Docker and Kubernetes. 
 
-Recent internship at IRD on the European Horizon Eco2Adapt project, where I designed a GraphRAG system prototype. 
+Focus on availability, security and incident handling.
+
+Recent experience at IRD on Eco2Adapt, a Horizon Europe project. 
 
 *Portfolio* : https://2randi.github.io/portfolio/
 
